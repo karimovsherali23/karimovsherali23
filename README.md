@@ -7,7 +7,8 @@
 Iqtisodiyot bilimini texnologiya bilan birlashtirib, odamlarga real foyda beradigan mahsulotlar quraman.
 
 [![Sayt](https://img.shields.io/badge/Shaxsiy_sayt-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayt.52-58-206-125.sslip.io)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Quiz_import_Bot)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karimovsherali)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karimovsherali_)
 [![Email](https://img.shields.io/badge/Email-0f1b33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@karimovsherali.uz)
 
 </div>
