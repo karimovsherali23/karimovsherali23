@@ -6,7 +6,7 @@
 
 Iqtisodiyot bilimini texnologiya bilan birlashtirib, odamlarga real foyda beradigan mahsulotlar quraman.
 
-[![Sayt](https://img.shields.io/badge/Shaxsiy_sayt-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sayt.52-58-206-125.sslip.io)
+[![Sayt](https://img.shields.io/badge/Shaxsiy_sayt-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karimovsherali.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karimovsherali)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karimovsherali_)
 [![Email](https://img.shields.io/badge/Email-0f1b33?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@karimovsherali.uz)
@@ -48,4 +48,4 @@ Iqtisodiyot bilimini texnologiya bilan birlashtirib, odamlarga real foyda beradi
 
 ### 📫 Bog'lanish
 
-Hamkorlik, buyurtma yoki savol bo'yicha — [saytimdagi forma](https://sayt.52-58-206-125.sslip.io/#contact) orqali raqamingizni qoldiring yoki [info@karimovsherali.uz](mailto:info@karimovsherali.uz) ga yozing.
+Hamkorlik, buyurtma yoki savol bo'yicha — [saytimdagi forma](https://karimovsherali.uz/#contact) orqali raqamingizni qoldiring yoki [info@karimovsherali.uz](mailto:info@karimovsherali.uz) ga yozing.
